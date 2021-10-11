@@ -23,4 +23,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
   * e3
 ![Github Logo](https://geekytheory.com/wp-content/uploads/2014/05/github-octocat.png)
 
-*Esto* __es un__ _texto_
+**Esto** __es un__ _texto_
